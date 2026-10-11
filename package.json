@@ -1,0 +1,11 @@
+{
+  "name": "json-update-api",
+  "version": "1.0.0",
+  "description": "Product update API using JSON Server",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0"
+  }
+}
